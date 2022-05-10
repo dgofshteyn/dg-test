@@ -1,0 +1,2 @@
+total 0
+-rw-rw-r-- 1 git git 0 May  9 21:46 ls.txt
