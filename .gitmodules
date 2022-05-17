@@ -1,0 +1,3 @@
+[submodule "dg-test-sub/dg-test-sub"]
+	path = dg-test-sub/dg-test-sub
+	url = git@github.com:dgofshteyn/dg-test-sub.git
