@@ -1,0 +1,16 @@
+git@bos-lhv36p:~/dg-test$ git pull --verbose
+Enter passphrase for key '/home/git/.ssh/git':
+From github.com:dgofshteyn/dg-test
+ = [up to date]      master     -> origin/master
+ = [up to date]      branch1    -> origin/branch1
+Updating a75c600..b52d0a9
+Fast-forward
+ dir1/dir1.txt | 4 ++++
+ dir2/dir2.txt | 4 ++++
+ ls.txt        | 1 +
+ dir.txt => new-dir.txt | 0
+ find.txt | 5 ----
+ 3 files changed, 9 insertions(+)
+ create mode 100644 dir1/dir1.txt
+ create mode 100644 dir2/dir2.txt
+
